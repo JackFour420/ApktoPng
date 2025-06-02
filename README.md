@@ -26,7 +26,7 @@ Create your .exe file
 1. Create.
 2. Convert.
 3. Connect to your logs.
-4. Monitor.
+4. Monitor
 
 ## **Usage Disclaimer and Features**
 
